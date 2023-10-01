@@ -1,0 +1,7 @@
+requests
+bs4
+BeautifulSoup4
+colorama
+requests-toolbelt
+rich
+datetime
